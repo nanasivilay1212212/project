@@ -1,0 +1,139 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: blue;
+	text-align: center;
+	size:900px;
+	font-size: xx-large;
+	color: white;
+	font-family: 'Playfair Display', serif;
+	padding-bottom: 0%;
+	word-spacing: 10px;
+
+}
+.intro{
+	background-color:blue;
+	padding:50px;
+}
+.bio{
+	background-color: blue;
+	padding:40px;
+}
+div.selfie{
+	margin-right: 1%; 
+}
+.bio h1{
+	color: pink;
+	font-family: 'Playfair Display', serif;
+	font-size:200%;
+	text-align: left;
+	padding-bottom: 8%;
+	margin-bottom: 8%;
+}
+.bio p{
+	text-align: left;
+	color: white;
+	font-family:Open Sans, sans-serif;
+	font-size: 100%;
+	float: left;
+	position: relative;
+  	margin: 10px;
+  	margin-right: 30px;
+  	margin-bottom: 100px;
+  	padding-right: 0px;
+  	margin-top: -14%;
+}
+.album{
+	background-color:red;
+	padding: 50px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.album h1 {
+	width: 100%;
+	text-align: center;
+	color: pink;
+	font-family:Open Sans, sans-serif;
+	font-size: 400%;
+}
+
+.image-text {
+	width: 30%;
+}
+
+.footer{
+	background-color: black;
+	padding:50px;
+
+}
+.Sign-up{
+	background-color: yellow;
+	text-align: left;
+	padding:50px;
+}
+.Sign-up h5{
+	font-size: 150%;
+}
+.mircophone{
+	float:center;
+	margin-top: 0%;
+	margin-bottom:80%;
+	margin-left: 2%;
+	margin-right: 10%;
+	position: relative;
+}
+div.image{
+	padding-bottom: 10%;
+}
+.image-text{
+	margin-left:2%;
+	padding-bottom:2%;
+	padding-left: 2%;
+	padding-right: 10%;
+	display: inline-flex;
+	align-content: space-between;
+	flex-direction: row;
+	text-align: center;
+}
+.tours{
+	background-color: yellow;
+	padding:50px;
+}
+.tours h4{
+	font-size:600%;
+}
+.date{
+	color: #67C471;
+	font-family:Open Sans, sans-serif;
+	font-size: 200%;
+	text-align: left;
+}
+.location{
+	color: #67C471;
+	font-family:Open Sans, sans-serif;
+	font-size: 100%;
+	text-align:right;
+	margin-left: 10%;
+	margin-top: -16%;
+
+}
+li{
+	color: #67C471;
+	font-family:Open Sans, sans-serif;
+	font-size:90%;
+	text-align: left;
+}
+.button{
+	font-family: 'Playfair Display', serif;
+	size: 90;
+	background-color: yellow;
+}
+.social-media img{
+	margin-top:20px;
+	margin-bottom:20px;
+}
